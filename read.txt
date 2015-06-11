@@ -1,3 +1,5 @@
 line1
 
 added to develop_1
+
+make some changes directly in master
